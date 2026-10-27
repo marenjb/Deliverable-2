@@ -221,3 +221,4 @@ __marimo__/
 
 # Deliverable 2 specific
 data/
+.venv-new/
